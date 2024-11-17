@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SaS0609 (SaS for short).
+- 👀 I’m passionate about **computer science**, with a focus on **software/game development**.
+- 🌱 Currently, I’m diving deep into **C programming**, and exploring graphics libraries like **SDL**.
+- 💞️ I’m open to collaborating on **beginner-friendly projects**, where I can contribute in any capacity (coding, testing, documentation, etc.).
